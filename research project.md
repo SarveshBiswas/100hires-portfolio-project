@@ -36,8 +36,20 @@ research/
 
 ## Current Status
 
-Research in progress.
+Research completed.
 
 ## Goal
 
 Build a structured knowledge base of proven LinkedIn growth strategies used by successful B2B SaaS marketers and founders.
+
+## Key findings
+
+1. Consistency matters more than perfection.
+
+2. Strong positioning improves engagement.
+
+3. Audience-first content outperforms product-first content.
+
+4. Founder-led content builds trust.
+
+5. Content distribution is as important as content creation.
