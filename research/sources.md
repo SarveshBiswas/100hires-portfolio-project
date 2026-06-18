@@ -1,7 +1,5 @@
 # Research Sources
 
-# Research Sources
-
 ## Justin Welsh
 
 Role:
