@@ -557,11 +557,11 @@ These recommendations represent the combined evidence gathered throughout this r
 
 ---
 
-# 10. References
+# References
 
-This playbook was developed using the research documented throughout this repository.
+The recommendations in this playbook are based on research conducted throughout this repository.
 
-Primary research included:
+## LinkedIn Research Files
 
 - Justin Welsh
 - Dave Gerhardt
@@ -574,15 +574,20 @@ Primary research included:
 - Gaetano DiNardi
 - Megan Bowen
 
-Supporting materials included:
+(See the corresponding files in `research/linkedin-posts/`.)
 
-- LinkedIn posts
-- YouTube videos
-- Articles
-- Interviews
-- Additional educational resources documented within the repository
+## Supporting Video Sources
 
-Readers are encouraged to review the individual research files in the `research` directory for detailed summaries, supporting insights, and source material used to develop this playbook.
+- Justin Welsh – https://youtu.be/Mp8m-ysmfq4?si=uH0_GwO3MAucxcev
+- Dave Gerhardt – https://youtu.be/S3jOSiE6l80?si=5QTxMudYtskIGJA5
+- Amanda Natividad – https://youtu.be/jW8oVoeHKqw?si=kuwayGJb5nFj6Lcg
+- Ross Simmonds – https://youtu.be/ofe-byzwvpo?si=F07uHCmIPEHchiWQ
+- Chris Walker – https://youtu.be/wR20w3DGEjQ?si=pwioCb3qpozAlK1n
+- April Dunford – https://youtu.be/SHB2Ols_YdY?si=CGGaX-TkEGfwieuo
+- Jason Lemkin – https://youtu.be/QFZH6_3HdTo?si=6uFGj8sJRpVOqk8M
+- Kyle Poyar – https://youtu.be/xJZAIy3_pkw?si=xOTS7Jzbon5m0qdF
+- Gaetano DiNardi – https://youtu.be/wmXperCHU18?si=wLRsSsaXZMhStQmc
+- Megan Bowen – https://youtu.be/mFt3OWojp9o?si=hIXxKPHLuRf0hInm
 
 ---
 
