@@ -86,6 +86,20 @@ Educational content consistently outperformed promotional content because it est
 
 **Supported by:** Justin Welsh, Amanda Natividad, Ross Simmonds
 
+### Sources
+
+**Justin Welsh**
+- LinkedIn Research: `research/linkedin-posts/Justin Welsh.md`
+- Supporting Video: https://youtu.be/Mp8m-ysmfq4?si=uH0_GwO3MAucxcev
+
+**Amanda Natividad**
+- LinkedIn Research: `research/linkedin-posts/Amanda Natividad.md`
+- Supporting Video: https://youtu.be/jW8oVoeHKqw?si=kuwayGJb5nFj6Lcg
+
+**Ross Simmonds**
+- LinkedIn Research: `research/linkedin-posts/Ross Simmonds.md`
+- Supporting Video: https://youtu.be/ofe-byzwvpo?si=F07uHCmIPEHchiWQ
+
 ---
 
 ### Observation 2 – Consistency creates trust
@@ -96,6 +110,20 @@ However, consistency was never presented as publishing for the sake of activity.
 
 **Supported by:** Justin Welsh, Dave Gerhardt, Chris Walker
 
+### Sources
+
+**Justin Welsh**
+- LinkedIn Research: `research/linkedin-posts/Justin Welsh.md`
+- Supporting Video: https://youtu.be/Mp8m-ysmfq4?si=uH0_GwO3MAucxcev
+
+**Dave Gerhardt**
+- LinkedIn Research: `research/linkedin-posts/Dave Gerhardt.md`
+- Supporting Video: https://youtu.be/S3jOSiE6l80?si=5QTxMudYtskIGJA5
+
+**Chris Walker**
+- LinkedIn Research: `research/linkedin-posts/Chris Walker.md`
+- Supporting Video: https://youtu.be/wR20w3DGEjQ?si=pwioCb3qpozAlK1n
+
 ---
 
 ### Observation 3 – Strong positioning improves content performance
@@ -105,6 +133,20 @@ Experts repeatedly showed that content performs better when readers immediately 
 Without clear positioning, even well-written content struggles to build recognition.
 
 **Supported by:** April Dunford, Amanda Natividad, Megan Bowen
+
+### Sources
+
+**April Dunford**
+- LinkedIn Research: `research/linkedin-posts/April Dunford.md`
+- Supporting Video: https://youtu.be/SHB2Ols_YdY?si=CGGaX-TkEGfwieuo
+
+**Amanda Natividad**
+- LinkedIn Research: `research/linkedin-posts/Amanda Natividad.md`
+- Supporting Video: https://youtu.be/jW8oVoeHKqw?si=kuwayGJb5nFj6Lcg
+
+**Megan Bowen**
+- LinkedIn Research: `research/linkedin-posts/Megan Bowen.md`
+- Supporting Video: https://youtu.be/mFt3OWojp9o?si=hIXxKPHLuRf0hInm
 
 ---
 
@@ -118,6 +160,20 @@ Creating more content was considered less effective than distributing existing c
 
 **Supported by:** Ross Simmonds, Dave Gerhardt, Gaetano DiNardi
 
+### Sources
+
+**Ross Simmonds**
+- LinkedIn Research: `research/linkedin-posts/Ross Simmonds.md`
+- Supporting Video: https://youtu.be/ofe-byzwvpo?si=F07uHCmIPEHchiWQ### Sources
+
+**Dave Gerhardt**
+- LinkedIn Research: `research/linkedin-posts/Dave Gerhardt.md`
+- Supporting Video: https://youtu.be/S3jOSiE6l80?si=5QTxMudYtskIGJA5### Sources
+
+**Gaetano DiNardi**
+- LinkedIn Research: `research/linkedin-posts/Gaetano DiNardi.md`
+- Supporting Video: https://youtu.be/wmXperCHU18?si=wLRsSsaXZMhStQmc
+  
 ---
 
 ### Observation 5 – Continuous measurement drives improvement
@@ -127,6 +183,20 @@ Successful creators regularly evaluated performance instead of relying on assump
 Metrics such as engagement quality, saves, profile visits, qualified conversations, and business outcomes were considered more meaningful than impressions alone.
 
 **Supported by:** Kyle Poyar, Megan Bowen, Jason Lemkin
+
+### Sources
+
+**Kyle Poyar**
+- LinkedIn Research: `research/linkedin-posts/Kyle Poyar.md`
+- Supporting Video: https://youtu.be/xJZAIy3_pkw?si=xOTS7Jzbon5m0qdF### Sources
+
+**Megan Bowen**
+- LinkedIn Research: `research/linkedin-posts/Megan Bowen.md`
+- Supporting Video: https://youtu.be/mFt3OWojp9o?si=hIXxKPHLuRf0hInm### Sources
+
+**Jason Lemkin**
+- LinkedIn Research: `research/linkedin-posts/Jason Lemkin.md`
+- Supporting Video: https://youtu.be/QFZH6_3HdTo?si=6uFGj8sJRpVOqk8M
 
 ---
 
@@ -155,6 +225,16 @@ Creating content for everyone usually results in content that resonates with no 
 **Supported by:**
 - Dave Gerhardt
 - April Dunford
+  
+### Sources
+
+**April Dunford**
+- LinkedIn Research: `research/linkedin-posts/April Dunford.md`
+- Supporting Video: https://youtu.be/SHB2Ols_YdY?si=CGGaX-TkEGfwieuo### Sources
+
+**Dave Gerhardt**
+- LinkedIn Research: `research/linkedin-posts/Dave Gerhardt.md`
+- Supporting Video: https://youtu.be/S3jOSiE6l80?si=5QTxMudYtskIGJA5
 
 ---
 
@@ -176,6 +256,16 @@ Strong positioning allows every future post to reinforce a consistent identity.
 - April Dunford
 - Amanda Natividad
 
+### Sources
+
+**Amanda Natividad**
+- LinkedIn Research: `research/linkedin-posts/Amanda Natividad.md`
+- Supporting Video: https://youtu.be/jW8oVoeHKqw?si=kuwayGJb5nFj6Lcg### Sources
+
+**April Dunford**
+- LinkedIn Research: `research/linkedin-posts/April Dunford.md`
+- Supporting Video: https://youtu.be/SHB2Ols_YdY?si=CGGaX-TkEGfwieuo
+
 ---
 
 ## Step 3 – Build Three to Five Content Pillars
@@ -195,7 +285,17 @@ This makes content planning more consistent and prevents repetitive messaging.
 **Supported by:**
 - Justin Welsh
 - Ross Simmonds
+  
+### Sources
 
+**Ross Simmonds**
+- LinkedIn Research: `research/linkedin-posts/Ross Simmonds.md`
+- Supporting Video: https://youtu.be/ofe-byzwvpo?si=F07uHCmIPEHchiWQ### Sources
+
+**Justin Welsh**
+- LinkedIn Research: `research/linkedin-posts/Justin Welsh.md`
+- Supporting Video: https://youtu.be/Mp8m-ysmfq4?si=uH0_GwO3MAucxcev
+  
 ---
 
 ## Step 4 – Prioritize Educational Content
@@ -214,7 +314,17 @@ Promotional content should support educational content rather than replace it.
 **Supported by:**
 - Amanda Natividad
 - Chris Walker
+  
+### Sources
 
+**Amanda Natividad**
+- LinkedIn Research: `research/linkedin-posts/Amanda Natividad.md`
+- Supporting Video: https://youtu.be/jW8oVoeHKqw?si=kuwayGJb5nFj6Lcg### Sources
+
+**Chris Walker**
+- LinkedIn Research: `research/linkedin-posts/Chris Walker.md`
+- Supporting Video: https://youtu.be/wR20w3DGEjQ?si=pwioCb3qpozAlK1n
+  
 ---
 
 ## Step 5 – Write for Readability
@@ -234,7 +344,17 @@ Readers should understand the main idea within the first few lines.
 **Supported by:**
 - Justin Welsh
 - Ross Simmonds
+  
+### Sources
 
+**Ross Simmonds**
+- LinkedIn Research: `research/linkedin-posts/Ross Simmonds.md`
+- Supporting Video: https://youtu.be/ofe-byzwvpo?si=F07uHCmIPEHchiWQ### Sources
+
+**Justin Welsh**
+- LinkedIn Research: `research/linkedin-posts/Justin Welsh.md`
+- Supporting Video: https://youtu.be/Mp8m-ysmfq4?si=uH0_GwO3MAucxcev
+  
 ---
 
 ## Step 6 – Encourage Conversation
@@ -248,7 +368,17 @@ The objective is to build relationships rather than simply increase impressions.
 **Supported by:**
 - Dave Gerhardt
 - Megan Bowen
+  
+### Sources
 
+**Dave Gerhardt**
+- LinkedIn Research: `research/linkedin-posts/Dave Gerhardt.md`
+- Supporting Video: https://youtu.be/S3jOSiE6l80?si=5QTxMudYtskIGJA5### Sources
+
+**Megan Bowen**
+- LinkedIn Research: `research/linkedin-posts/Megan Bowen.md`
+- Supporting Video: https://youtu.be/mFt3OWojp9o?si=hIXxKPHLuRf0hInm
+  
 ---
 
 ## Step 7 – Repurpose High-Performing Content
@@ -268,7 +398,17 @@ This extends the lifespan of quality content while maintaining consistency acros
 **Supported by:**
 - Ross Simmonds
 - Gaetano DiNardi
+  
+### Sources
 
+**Gaetano DiNardi**
+- LinkedIn Research: `research/linkedin-posts/Gaetano DiNardi.md`
+- Supporting Video: https://youtu.be/wmXperCHU18?si=wLRsSsaXZMhStQmc### Sources
+
+**Ross Simmonds**
+- LinkedIn Research: `research/linkedin-posts/Ross Simmonds.md`
+- Supporting Video: https://youtu.be/ofe-byzwvpo?si=F07uHCmIPEHchiWQ
+  
 ---
 
 ## Step 8 – Measure Business Impact
@@ -290,7 +430,21 @@ The objective is business growth rather than vanity metrics.
 - Kyle Poyar
 - Jason Lemkin
 - Megan Bowen
+  
+### Sources
 
+**Jason Lemkin**
+- LinkedIn Research: `research/linkedin-posts/Jason Lemkin.md`
+- Supporting Video: https://youtu.be/QFZH6_3HdTo?si=6uFGj8sJRpVOqk8M### Sources
+
+**Kyle Poyar**
+- LinkedIn Research: `research/linkedin-posts/Kyle Poyar.md`
+- Supporting Video: https://youtu.be/xJZAIy3_pkw?si=xOTS7Jzbon5m0qdF### Sources
+
+**Megan Bowen**
+- LinkedIn Research: `research/linkedin-posts/Megan Bowen.md`
+- Supporting Video: https://youtu.be/mFt3OWojp9o?si=hIXxKPHLuRf0hInm
+  
 ---
 
 ## Step 9 – Review and Improve
@@ -310,7 +464,17 @@ Continuous improvement was a recurring recommendation across nearly every expert
 **Supported by:**
 - Kyle Poyar
 - Chris Walker
+  
+### Sources
 
+**Kyle Poyar**
+- LinkedIn Research: `research/linkedin-posts/Kyle Poyar.md`
+- Supporting Video: https://youtu.be/xJZAIy3_pkw?si=xOTS7Jzbon5m0qdF### Sources
+
+**Chris Walker**
+- LinkedIn Research: `research/linkedin-posts/Chris Walker.md`
+- Supporting Video: https://youtu.be/wR20w3DGEjQ?si=pwioCb3qpozAlK1n
+  
 ---
 
 # 5. Areas of Agreement and Disagreement
